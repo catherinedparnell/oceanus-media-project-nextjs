@@ -1,0 +1,62 @@
+{
+    "count": [
+        {
+            "label": "Global",
+            "value": 485
+        },
+        { 
+            "label": "North-Pacific",
+            "value": 184.4
+        },
+        {
+            "label": "Indian Ocean", 
+            "value": 120.4
+        },
+        {
+            "label": "North-Atlantic",
+            "value": 85.6
+        },
+        {
+            "label": "South Pacific",
+            "value": 44.5
+        },
+        {
+            "label": "South Atlantic", 
+            "value": 27.3
+        },
+        {
+            "label": "Mediterranean Sea", 
+            "value": 23.1
+        }
+    ],
+    "weight": [
+        {
+            "label": "Global", 
+            "value": 2334
+        },
+        {
+            "label": "North-Pacific", 
+            "value": 843
+        },
+        {
+            "label": "North Atlantic", 
+            "value": 612.2
+        },
+        {
+            "label": "Indian Ocean", 
+            "value": 516.6
+        },
+        {
+            "label": "South Pacific", 
+            "value": 347
+        },
+        {
+            "label": "Mediterranean Sea",
+            "value": 163.6
+        },
+        {
+            "label": "South Atlantic", 
+            "value": 112.4
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+/* eslint-disable max-len */
+const Text = {
+  magnificent: 'Sea turtles are some of the world’s most magnificent marine creatures––so magnificent, in fact, that they’ve existed since dinosaurs roamed the Earth.',
+  seven: 'Our Earth\'s oceans are home to seven species of sea turtles.',
+  endangered: 'All six sea turtle species found in U.S. waters are endangered.',
+  cycle: 'Sea turtles have a remarkable life cycle. All sea turtle hatchlings begin their life on the land since female sea turtles must come ashore to lay their eggs in the sand.',
+  nest: 'Females like Suzie return to the beach where they were born to nest. In the United States, nesting takes place from April to October. When she is ready to nest, Suzie will crawl out of the surf and up the beach, far away from the water mark. She will then use her powerful back flippers to dig a nest in the sand, lay and cover her eggs, and then drag herself back to the ocean.',
+  incubate: 'The eggs incubate in the next for about 60 days.',
+  gender: 'The temperature of the sand determines the gender of the baby sea turtles. Cooler sand produces more males, while warmer sand produces more females.',
+  hatch: 'When the baby sea turtles are ready, they all hatch in unison, emerging together from their nest. Once hatched, the hatchlings face a harrowing journey from their nest down to the ocean. They must navigate to the water using the reflections of the moon and stars and the downward slope of the beach, all while avoiding hungry predators like sea birds, foxes, racoons, and even wild dogs.',
+  seaweed: 'The tiny turtles that reach the ocean swim far offshore to spend the first few years of their lives hiding and growing in floating rafts of Sargassum seaweed.',
+  survive: 'Only about 1 in 1,000 or 1 in 10,000 sea turtle hatchlings will survive to adulthood.',
+  maturity: '10 to 50 years after hatching, sea turtles reach their maturity and are ready to mate, beginning the nesting process over.',
+  old: 'Although it is not known exactly how long sea turtles live, scientists estimate that their lives can span as long as 100 years!',
+  heading: 'Sea Turtles in the United States',
+  states: 'About 90% of sea turtle nesting sites in the United States are in Florida. Sea turtles can also be found in Georgia, Texas, North Carolina, South Carolina, Maryland, California, and Hawaii.',
+  protect: 'The sea turtles found in U.S. waters are protected by the Endangered Species Act and are managed by both the Fish and Wildlife Service and the National Marine Fisheries Service.',
+  threatTitle: 'Despite the efforts of these federal agencies, sea turtles face many threats, including:',
+  threat: [
+    '1. Fisheries bycatch',
+    '2. Habitat loss & coastal development',
+    '3. Overharvesting & illegal global trade',
+    '4. Vessel strikes & boat collisions',
+    '5. Invasive species',
+  ],
+  plastic: 'And of course, plastic pollution.',
+  section: 'Sea Turtles and Plastic',
+  impactTitle: 'Ocean plastic pollution can negatively impact sea turtles in 4 main ways:',
+  impact: [
+    '1. Sea turtles confuse plastic for food, especially plastic bags for jellyfish. This then causes the turtles’ stomachs to feel full so that they neglect to seek out other food and ultimately starve to death.',
+    '2. Plastic trash on turtle nesting beaches can entangle female sea turtles as they crawl through the sand to find a place for their nests.',
+    '3. Sea turtles become caught in plastic debris while they are swimming. At least 1,000 sea turtles die every year from becoming tangled in plastic waste like fishing nets or plastic pack rings.',
+    '4. Sea turtles consume microplastics through their food when the fish or other animals they eat have consumed tiny bits of plastic. 52% of all sea turtles have eaten particles of plastic.',
+  ],
+  young: 'Plastic pollution impacts sea turtles\' youngest generations most.',
+  baby: 'Hatchlings and young sea turtles are particularly likely to consume small bits of plastic. While baby sea turtles spend the formative years of their lives drifting in patches of Sargassum seaweed, they are surviving by eating any food that floats by. They’ll take whatever they can get – including plastic.',
+  digestive: 'As many as 276 pieces of hard plastic have been found in the digestive system of a baby sea turtle.',
+  death: 'Plastic fragments impact the absorption of nutrients and the gut functions of the developing baby turtles, leading to their early deaths.',
+  hope: 'But remember, sea turtles like Suzie and her hatchlings still have hope! We can begin addressing the problem of ocean plastic pollution today. Go to the Take Action page to learn how you can help reduce the amount of waste entering our oceans.',
+};
+
+export default Text;
