@@ -44,20 +44,20 @@ OceanUS is a media project with the purpose of increasing awareness about ocean 
 |  └──constants/                              # Folder to store constants for pages
 |  └──data/                                   # Contains relevant datasets and python scripts
 |     └──cleaned/                             # Folder containing cleaned json data
-|        └──cleaned-plastic-in-oceans.json    # Cleaned data for plastic in oceans visualization
-|        └──future-plastic-data.json          # Cleaned data for future plastic in oceans visualization
-|        └──plastic-per-person.json           # Cleaned data for individidual plastic waste visualization
+|        └──cleaned-plastic-in-oceans.json  
+|        └──future-plastic-data.json      
+|        └──plastic-per-person.json         
 |     └──raw/                                 # Folder containing raw data
 |     └──README.md                            # Details on methodology
 |     └──scripts/                             # Folder containing python scripts for data manipulation
 |        └──plastic-in-oceans.py           
 |        └──future-plastic-data.py         
 |        └──plastic-per-person.py     
-|     └──future.js                            # Cleaned data for future page               
-|     └──eco.js                               # Cleaned data for eco page  
-|     └──human.js                             # Cleaned data for human page  
-|     └──intro.js                             # Cleaned data for intro page 
-|  └──pages/         
+|     └──future.js                            # Cleaned chartjs data for future page               
+|     └──eco.js                               # Cleaned chartjs data for eco page  
+|     └──human.js                             # Cleaned chartjs data for human page  
+|     └──intro.js                             # Cleaned chartjs data for intro page 
+|  └──pages/
 |     └──explore/                             # Folder containing static 'explore' pages
 |           └──action.js                      # Take action page
 |           └──health.js                      # Human Health page
@@ -66,11 +66,13 @@ OceanUS is a media project with the purpose of increasing awareness about ocean 
 |           └──plastic.js                     # More about plastics page
 |           └──suzie.js                       # More about sea turtles page
 |     └──flows/                               # Folder containing flows related pages
-|        └──future.js                 
-|        └──eco.js
-|        └──human.js
-|        └──intro.js
-|        └──app.js
+|        └──future.js                         # Future impact flow
+|        └──eco.js                            # Ecological impact flow
+|        └──human.js                          # Human impact flow
+|        └──intro.js                          # Introduction flow
+|     └──_app.js
+|     └──_document.js
+|     └──index.js                             # Home page
 |  └──public/                                 # Public directory to store image assets
 |  └──styles/
 |     └──globals.css.                         # Styling with Tailwind
