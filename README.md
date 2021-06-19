@@ -24,8 +24,6 @@ OceanUS is a media project with the purpose of increasing awareness about ocean 
 
 ```
 ├──oceanus-media-project/                     # Root
-|  └──.github/
-|  └──images/
 |  └──animations/                             # Animations related data
 |  └──components/  
 |     └──america.js                           # America component for home page
